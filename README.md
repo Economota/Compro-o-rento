@@ -88,6 +88,5 @@ la fuente.
 
 ## Autor
 
-**Tu Nombre** — Economista, especialidad en Economía de la Empresa y
+**Isaac Ortega Mota** — Economista, especialidad en Economía de la Empresa y
 Finanzas.
-<!-- Reemplaza "Tu Nombre" por tu nombre o el de tu marca antes de publicar. -->
