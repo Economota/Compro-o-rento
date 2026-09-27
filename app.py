@@ -234,7 +234,7 @@ st.markdown(CSS, unsafe_allow_html=True)
 st.markdown('<p class="eyebrow">La decisión más grande de tu vida, sin refranes</p>', unsafe_allow_html=True)
 st.markdown('<h1 class="brand-title">¿RENTO O COMPRO?</h1>', unsafe_allow_html=True)
 st.caption(
-    "Sin que te mienta el banco ni tu tía. Aquí sí contamos el costo de "
+    "Aquí sí contamos el costo de "
     "oportunidad del enganche, la escrituración y lo que cuesta vender."
 )
 
